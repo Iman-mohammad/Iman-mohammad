@@ -4,5 +4,4 @@
 I will learn new languages, skills, frameworks and using my design skills to support my new field as Front End Developer.
  </h2>
 
-<h2>Want to chat? Feel free to drop me a message.
-LinkedIn : https://www.linkedin.com/in/iman-mohammad-340017220</h2>
+<h2>Want to chat? Feel free to drop me a message: https://www.linkedin.com/in/iman-mohammad-340017220</h2>
