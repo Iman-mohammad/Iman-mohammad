@@ -5,5 +5,5 @@ I will learn new languages, skills, frameworks and using my design skills to sup
  </h2>
 
 <h2>Want to chat? Feel free to drop me a message.
-https://www.linkedin.com/in/iman-mohammad-340017220
-d.iman.mohammad9@gmail.com</h2>
+LinkedIn : [https://www.linkedin.com/in/iman-mohammad-340017220](@iman-mohammad)
+Gmail : d.iman.mohammad9@gmail.com</h2>
