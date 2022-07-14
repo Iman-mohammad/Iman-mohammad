@@ -1,7 +1,8 @@
-<h1>Hi there , I'm Iman 👋</h1>
+<h1>Hi there 👋 I'm Iman 📖 I am a Web Designer </h1>
 
-<h2>📖I am a web designer 
-My Skills and tools i used :  
+<h2>
+ 
+ Skills and tools I used :  
  - Adobe Illustrator 
  - Adobe Photoshop 
  - HTML
