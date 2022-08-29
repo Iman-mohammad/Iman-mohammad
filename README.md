@@ -4,7 +4,6 @@
  
  Skills and tools I used :  
  - Adobe Illustrator 
- - Adobe Photoshop 
  - HTML
  - CSS 
  - Git 
