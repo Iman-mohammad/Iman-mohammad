@@ -1,7 +1,7 @@
-<h1>Hi there 👋 I'm Iman 📖 I am a UX-UI  Designer </h1>
+<h1>Hi, I'm Iman 👋 I am an UX-UI  Designer </h1>
 
 <h2>
- 
+ I'm a UX-UI designer who is passionated  about creating different designs that inspier and help people to get geart expeimentation. Some technologies and tools I enjoy working with include : 
  Skills and tools I used :  
  - Adobe Illustrator 
  - HTML
@@ -12,9 +12,13 @@
  - Basic JavaScript 
  - color theory 
  - Canva 
-
-Now I'm Joining Google UX Design Professional Courses  
+ 
+I working now as Freelancer Social Media designer while I'm Developing  my skills in UX-UI designing by : Google UX Design Professional courses  
  </h2>
 
-<h2>You can visit my Pinterest page Here : <a href="https://pin.it/4Mugf4S"> Emma </a></h2>
-<h2>Want to chat? Feel free to drop me a message:<a href="https://www.linkedin.com/in/iman-mohammad-340017220">Iman Mohammad</a></h2>
+
+<h2>Find me around the web 🌎:
+ - Sharing updates on <a href="https://www.linkedin.com/in/iman-mohammad-340017220">LinkedIn</a>💼
+ - Get Inspierd on <a href="https://pin.it/4Mugf4S"> Pinterest </a> 🌟
+</h2>
+
