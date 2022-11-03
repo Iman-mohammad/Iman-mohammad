@@ -1,9 +1,8 @@
 <h1>Hi, I'm Iman 👋 </h1>
 
 <h2>
- I'm an UX-UI designer who is passionated  about creating different designs that inspier and help people to get geart expeimentation. Some technologies and tools I enjoy  working with include : 
- Skills and tools I used :  
- 
+I'm a UX-UI designer who is passionate about creating different designs that inspire and help people to get great experimentation. Some technologies and tools I enjoy working with include :
+
  - Adobe Illustrator 
  - HTML
  - CSS 
@@ -14,7 +13,7 @@
  - color theory 
  - Canva 
  
-I working now as a Freelancer Social Media designer while I'm Developing my skills in UX-UI designing by : Google UX Design Professional courses  
+I working now as a Freelancer Social Media designer while I'm Developing my skills in UX-UI designing through Google UX Design Professional courses
  </h2>
 
 
