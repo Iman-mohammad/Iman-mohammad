@@ -10,7 +10,6 @@ I'm a UX-UI designer who is passionate about creating different designs that ins
  - GitHub 
  - Responsive Design 
  - Basic JavaScript 
- - color theory 
  - Canva 
  
 I working now as a Freelancer Social Media designer while I'm Developing my skills in UX-UI designing through Google UX Design Professional courses
