@@ -14,7 +14,7 @@
  - color theory 
  - Canva 
  
-I working now as Freelancer Social Media designer while I'm Developing  my skills in UX-UI designing by : Google UX Design Professional courses  
+I working now as a Freelancer Social Media designer while I'm Developing my skills in UX-UI designing by : Google UX Design Professional courses  
  </h2>
 
 
