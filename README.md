@@ -1,7 +1,7 @@
-<h1>Hi, I'm Iman 👋 I am an UX-UI  Designer </h1>
+<h1>Hi, I'm Iman 👋 </h1>
 
 <h2>
- I'm a UX-UI designer who is passionated  about creating different designs that inspier and help people to get geart expeimentation. Some technologies and tools I enjoy working with include : 
+ I'm an UX-UI designer who is passionated  about creating different designs that inspier and help people to get geart expeimentation. Some technologies and tools I enjoy working with include : 
  Skills and tools I used :  
  - Adobe Illustrator 
  - HTML
