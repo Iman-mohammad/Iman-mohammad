@@ -12,7 +12,7 @@ I'm a UX-UI designer who is passionate about creating different designs that ins
  - Basic JavaScript 
  - Canva 
  
-I working now as a Freelance Social Media designer while I'm improving my skills in UX-UI designing through Google UX Design Professional courses
+I working now as a Freelance Social Media designer while I'm improving my UX-UI designing skills through Google UX Design Professional courses
  </h2>
 
 
