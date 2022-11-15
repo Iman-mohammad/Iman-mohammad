@@ -1,19 +1,5 @@
 <h1>Hi, I'm Iman 👋 </h1>
 
-<h2>
-I'm a UX-UI designer who is passionate about creating different designs that inspire and help people to get great experimentation while using websites or mobile Apps. Some technologies and tools I enjoy working with include :
-
- - Adobe Illustrator 
- - HTML
- - CSS 
- - Git 
- - GitHub 
- - Responsive Design 
- - Basic JavaScript 
- - Canva 
- 
-I working now as a Freelance Social Media designer while I'm improving my UX-UI designing skills through Google UX Design Professional courses
- </h2>
 
 
 <h2>Find me around the web 🌎:
