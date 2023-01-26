@@ -5,15 +5,17 @@
 <h2>
 Hi, I'm Iman 👋
 I'm a web designer who is passionate about creating different designs that inspire and help people to get great experimentation while using websites or mobile Apps. Some technologies and tools I enjoy working with include :
-  - Adobe Illustrator
-  - HTML
-  - CSS
-  - Git
-  - GitHub
-  - Responsive Design
-  - Media query
-  - Basic JavaScript
-  - Canva
+  <ul>
+  <li>Adobe Illustrator</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Git</li>
+  <li>GitHub</li>
+  <li>Responsive Design</li>
+  <li>Media query</li>
+  <li>Basic JavaScript</li>
+  <li>Canva</li>
+  </ul>
 
 I working now as a Freelance Social Media designer while I'm improving my UX-UI designing skills through Google UX Design Professional courses.
 
