@@ -2,8 +2,9 @@
 
 <h2>
 I'm a UI and Web designer passionate about creating different designs that inspire and help people get great experimentation while using websites or mobile Apps. Some technologies and tools I enjoy working with include :
+ <hr>
  <ul>
-  <li>Figma</li>
+ <li>Figma</li>
 <li>Prototyping </li>
 <li>Wireframing </li>
 <li>HTML</li>
