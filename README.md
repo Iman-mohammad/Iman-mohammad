@@ -2,7 +2,7 @@
 
 <h2>
 I'm a UI and Web designer passionate about creating different designs that inspire and help people get great experimentation while using websites or mobile Apps. Some technologies and tools I enjoy working with include :
- <hr>
+<br>
  <ul>
  <li>Figma</li>
 <li>Prototyping </li>
@@ -17,7 +17,7 @@ I'm a UI and Web designer passionate about creating different designs that inspi
 <li>Adobe Illustrator</li>
   <li>Canva</li>
  </ul>
-
+ <hr>
 I am working as a Freelance UI and Web designer while improving my UX designing skills through Google UX Design Professional courses.
 
  Find me around the web 🌎:
