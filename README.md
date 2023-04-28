@@ -21,7 +21,6 @@ I'm a UI and Web designer passionate about creating different designs that inspi
 I am working as a Freelance UI and Web designer while improving my UX designing skills through Google UX Design Professional courses.
 
  Find me around the web 🌎:
-  -  Sharing updates on <a href="https://www.linkedin.com/in/iman-mohammad-340017220">LinkedIn</a> 💼
-  - Inspierd on <a href="https://pin.it/4Mugf4S"> Pinterest </a> 🌟
+  - Sharing updates on <a href="https://www.linkedin.com/in/iman-mohammad-340017220">LinkedIn</a> 💼
 </h2>
 
